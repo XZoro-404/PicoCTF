@@ -39,7 +39,7 @@ using nano change the line 22 to `if flag == "":`
 
 ### Flag
 > [!question]- Flag
-> 
+> picoCTF{3qu4l1ty_n0t_4551gnm3nt_b4d595d9}
 
 
 
